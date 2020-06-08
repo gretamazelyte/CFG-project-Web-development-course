@@ -1,0 +1,16 @@
+footer {
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(59, 120, 253);
+}
+
+nav {
+    height: 150px;
+    background-color: rgb(59, 120, 253);
+}
+
+.recipes {
+  margin: 50px;  
+}
