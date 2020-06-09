@@ -29,13 +29,13 @@ nav {
   height: 250px;
   padding: 5px;
   margin: 10px;
-
 }
 
 .lovelycat {
   align-items: center;
   justify-content: center;
   display: flex;
+}
 
 footer {
   height: 150px;
