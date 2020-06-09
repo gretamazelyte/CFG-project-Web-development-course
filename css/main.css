@@ -16,7 +16,7 @@ nav {
 }
 
 .jumbotron {
-  background-color: darkorange;
+  background-color: rgb(211, 176, 79);
   display: flex;
   align-items: center;
 }
@@ -26,6 +26,6 @@ nav {
   width: 400px;
   border-style: 5px solid;
   padding: 15px;
-  background: darkorange;
+  background: rgb(211, 176, 79);
   display:flex;
 }
