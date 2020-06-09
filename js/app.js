@@ -1,1 +1,7 @@
-This is a js File, this line need removed because it was the only way to add this to the github.
+
+function changePic1() {
+    document.getElementById("catover").src = "../images/dog.jpg";
+  }
+  function changePic2(){
+    document.getElementById("catover").src = "../images/cat.jpg";
+  }
