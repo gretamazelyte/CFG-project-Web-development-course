@@ -32,6 +32,11 @@ nav {
 
 }
 
+.lovelycat {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
 footer {
   height: 150px;
   align-items: center;
