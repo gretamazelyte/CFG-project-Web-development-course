@@ -14,3 +14,18 @@ nav {
 .recipes {
   margin: 50px;  
 }
+
+.jumbotron {
+  background-color: darkorange;
+  display: flex;
+  align-items: center;
+}
+
+.row {
+  left: 30px;
+  width: 400px;
+  border-style: 5px solid;
+  padding: 15px;
+  background: darkorange;
+  display:flex;
+}
